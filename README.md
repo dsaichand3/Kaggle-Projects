@@ -2,5 +2,5 @@
 
 - Plant Seedlings Classification (Tensorflow)
 - MNIST Digits Classification (Pytorch)
-- LANL Earthquake Prediction (Tensorflow)
+- Detection of defects on steel surface (Tensorflow)
 - Quora Question Pairs (Tensorflow)
