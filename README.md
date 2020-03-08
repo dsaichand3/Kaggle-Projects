@@ -4,3 +4,5 @@
 - MNIST Digits Classification (Pytorch)
 - Detection of defects on steel surface (Tensorflow)
 - Quora Question Pairs (Tensorflow)
+- Santender Value Prediction Challenge (Tensorflow)
+- NYC taxi fare prediction (Tensorflow)
