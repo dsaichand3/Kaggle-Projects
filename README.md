@@ -6,3 +6,4 @@
 - Quora Question Pairs (Tensorflow)
 - Santander Value Prediction Challenge (Tensorflow)
 - NYC taxi fare prediction (Tensorflow)
+- Credit Card Fraud Detection (Sklearn)
